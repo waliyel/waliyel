@@ -11,7 +11,7 @@
 <a href="https://kaggle.com/waliyelhasnatzaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="waliyelhasnatzaman" height="30" width="40" /></a>
 <a href="https://fb.com/wal.e1499" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wal.e1499" height="30" width="40" /></a>
 <a href="https://instagram.com/wali.1410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wali.1410" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/waliyelsprojects" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="waliyelsprojects" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@WaliyelsProjects" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="waliyelsprojects" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
