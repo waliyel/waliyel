@@ -59,7 +59,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waliyel&layout=compact&theme=radical&hide_border=true&count_private=true&hide=html,css,scss,javascript" alt="Top Languages" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waliyel&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" />
     </td>
   </tr>
   <tr>
@@ -68,8 +68,3 @@
     </td>
   </tr>
 </table>
-
-<!-- Private Contributions Tracker -->
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=waliyel&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph&hide_title=false" alt="Contribution Graph"/>
-</p>
