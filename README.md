@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Waliyel Hasnat Zaman</h1>
-<h3 align="center">Aspiring System & Data Analyst | Sustainable Tech Enthusiast | Innovating for a Smarter, Greener Future</h3>
+<h1 align="left">Hi 👋, I'm Waliyel Hasnat Zaman</h1>
+<h3 align="left">Aspiring System & Data Analyst | Sustainable Tech Enthusiast | Innovating for a Smarter, Greener Future</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=waliyel&label=Profile%20views&color=0e75b6&style=flat" alt="waliyel" /> 
