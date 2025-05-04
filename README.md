@@ -3,7 +3,6 @@
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=waliyel&label=Profile%20views&color=0e75b6&style=flat" alt="waliyel" /> 
-  <img src="https://img.shields.io/github/followers/waliyel?label=Follow&style=social" alt="GitHub followers">
 </p>
 
 - 📫 How to reach me: **waliyelhasnatzaman@gmail.com**
@@ -69,8 +68,3 @@
     </td>
   </tr>
 </table>
-
-<!-- 100% Working Contribution Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=waliyel&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="Contribution Graph" style="width:90%"/>
-</div>
