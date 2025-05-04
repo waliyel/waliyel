@@ -22,3 +22,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waliyel&show_icons=true&locale=en" alt="waliyel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waliyel&" alt="waliyel" /></p>
+
+<!-- GitHub Stats Refresh Trick -->
+![Force Refresh](https://github-readme-stats.vercel.app/api?username=waliyel&show_icons=true&locale=en&include_all_commits=true&count_private=true)
